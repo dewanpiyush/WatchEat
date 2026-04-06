@@ -1,0 +1,12 @@
+{
+  "ingested": [
+    "lotus-leaf-restaurant-bar-delhi/reviews-2026-04-02.json",
+    "lotus-leaf-restaurant-bar-delhi/reviews-2026-04-03.json",
+    "pizza_hut_prashant_vihar_delhi/pizza_hut_prashant_vihar_delhi_6042026.json"
+  ],
+  "signalsProcessed": [
+    "lotus-leaf-restaurant-bar-delhi/reviews-2026-04-02.json",
+    "lotus-leaf-restaurant-bar-delhi/reviews-2026-04-03.json",
+    "pizza_hut_prashant_vihar_delhi/pizza_hut_prashant_vihar_delhi_6042026.json"
+  ]
+}
